@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Creative technologist with 12+ years of experience in the software-driven visual effects industry, including 6+ years in leadership. I've led cross-functional teams of artists and developers under intense production pressure—delivering both creatively polished and technically robust solutions.
+
+I’ve built on-prem and cloud-based pipelines, deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend. I also co-founded a French tech startup focused on AI tools for media workflows.
+
+---
+
+## 🔭 Currently Working On:
+- A **Rust + Tauri desktop app** for creative professionals
+- **Machine Learning projects** using PyTorch and TensorFlow
+- Advancing my knowledge of **cybersecurity** via TryHackMe and practical labs 
+
+---
+
+## 🎓 Ongoing Learning:
+- 📘 Completed: Harvard CS50
+- 🤖 Completed: Rebelway's ML for Artists track
+- 🧠 Upcoming: MSc Computer Science at the University of Bath (Autumn 2025)
+
+---
+
+## 🚀 Interests:
+- Building intelligent tools for real-world creative and ethical impact
+- ML infrastructure, platform engineering, DevOps
+- AI ethics and safety
+
+---
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [YouTube](https://www.youtube.com/@yourchannel)
