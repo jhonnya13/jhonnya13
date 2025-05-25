@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Creative technologist with 12+ years of experience in the software-driven visual effects industry, including 6+ years in leadership. I've led cross-functional teams of artists and developers under intense production pressure—delivering both creatively polished and technically robust solutions.
+Creative technologist with 12+ years of experience in the software-driven visual effects industry, including 6+ years in leadership. I've led cross-functional teams of artists and developers under intense production pressure - delivering both creatively polished and technically robust solutions.
 
 I’ve built on-prem and cloud-based pipelines, deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend. I also co-founded a French tech startup focused on AI tools for media workflows.
 
 ---
- I just can't learn one thing at once.
+ I just can't learn one thing at a time.
 
 ## 🔭 Currently Working On:
 - A **Rust + Tauri desktop app** for creative professionals (got curios how to build cross platform and avoid packaging all for different OS)
@@ -28,10 +28,10 @@ I’ve built on-prem and cloud-based pipelines, deployed machine learning models
  
 ---
 
-## 🎓 Ongoing Learning:
-- 📘 Completed: Harvard CS50
-- 🤖 Completed: Rebelway's ML for Artists track
+## 🎓 Education:
 - 🧠 Upcoming: MSc Computer Science at the University of Bath (Autumn 2025)
+- 🤖 Completed: Rebelway's Introduction to Machine Learning
+- 📘 Completed: Harvard CS50
 
 ---
 
