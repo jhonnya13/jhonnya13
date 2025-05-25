@@ -15,15 +15,23 @@ Here are some ideas to get you started:
 -->
 Creative technologist with 12+ years of experience in the software-driven visual effects industry, including 6+ years in leadership. I've led cross-functional teams of artists and developers under intense production pressure - delivering both creatively polished and technically robust solutions.
 
-I’ve built on-prem and cloud-based pipelines, deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend. I also co-founded a French tech startup focused on AI tools for media workflows.
+I’ve built on-prem and cloud-based pipelines (for work and fun), deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend. I also co-founded a French tech startup focused on AI tools for media workflows.
 
 ---
+
+## 🤍 Care about:
+- Building intelligent tools for real-world problems
+- ML infrastructure, platform engineering, DevOps
+- AI ethics and safety
+
+
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color:#f9f9f9; padding: 10px;">
       <strong>DevOps & Cloud</strong><br><br>
       <img src="https://skillicons.dev/icons?i=git,gcp,kubernetes,docker&perline=5" />
     </td>
@@ -36,23 +44,24 @@ I’ve built on-prem and cloud-based pipelines, deployed machine learning models
       <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv&perline=4" />
     </td>
     <td align="center">
-      <strong>Creative Tools & IDEs</strong><br><br>
+      <strong>Creative Tools & IDEs</strong><br>
+      <br>
       <img src="https://skillicons.dev/icons?i=unreal,blender,vscode,sublime&perline=4" /><br>
+      <img src="https://independenthorrorsociety.com/wp-content/uploads/2020/08/Houdini-Logo-1-300x300.png" height="30" alt="Houdini" >
+      <img src="https://img.icons8.com/color/512/nuke.png" height="30" alt="Nuke" />
+      <br>
     </td>
   </tr>
 </table>
 
 
 
----
- I just can't learn one thing at a time.
+**DevOps & Cloud:** Git, Google Cloud, Kubernetes, Docker  
+**Web & App Development:** Python, JavaScript, HTML, Tailwind CSS, Flask, FastAPI, SQLite, Redis, C, Rust, Tauri  
+**Machine Learning:** TensorFlow, scikit-learn, PyTorch, OpenCV  
+**Creative Tools & IDEs:** Unreal Engine, Blender, VS Code, Sublime Text, Houdini, Nuke
 
-## 🔭 Currently Working On:
-- A **Rust + Tauri desktop app** for creative professionals (got curios how to build cross platform and avoid packaging all for different OS)
-- **Machine Learning projects** using PyTorch and TensorFlow (like to test new algorithms and papers)
-- Advancing my knowledge of **cybersecurity** via TryHackMe and practical labs (kinda really must have these days...)
 
- 
 ---
 
 ## 🎓 Education:
@@ -61,13 +70,20 @@ I’ve built on-prem and cloud-based pipelines, deployed machine learning models
 - 📘 Completed: Harvard CS50
 
 ---
+  Can't just learn one thing at a time...
 
-## 🚀 Interests:
-- Building intelligent tools for real-world creative and ethical impact
-- ML infrastructure, platform engineering, DevOps
-- AI ethics and safety
+## 🔭 Currently Working On:
+- A **Rust + Tauri desktop app** for creative professionals (got curios how to build cross platform and avoid packaging all for different OS)
+- **Machine Learning projects** using PyTorch and TensorFlow (like to test new algorithms and papers)
+- Advancing my knowledge of **cybersecurity** via TryHackMe and practical labs (kinda really must have these days...)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kseniia-ivanova-vfx/" target="_blank">
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@the.kseniia" target="_blank">
+    Youtube
+  </a>
+</p>
 
---
-- [LinkedIn](https://www.linkedin.com/in/kseniia-ivanova-vfx/)
-- [YouTube](https://www.youtube.com/@the.kseniia)
