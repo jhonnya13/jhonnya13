@@ -42,6 +42,7 @@ I’ve built on-prem and cloud-based pipelines (for work and fun), deployed mach
     <td align="center">
       <strong>Machine Learning</strong><br><br>
       <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv&perline=4" />
+      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="30" alt="Hugging face"
     </td>
     <td align="center">
       <strong>Creative Tools & IDEs</strong><br>
@@ -57,8 +58,8 @@ I’ve built on-prem and cloud-based pipelines (for work and fun), deployed mach
 
 
 **DevOps & Cloud:** Git, Google Cloud, Kubernetes, Docker  
-**Web & App Development:** Python, JavaScript, HTML, Tailwind CSS, Flask, FastAPI, SQLite, Redis, C, Rust, Tauri  
-**Machine Learning:** TensorFlow, scikit-learn, PyTorch, OpenCV  
+**Web & App Development:** Python, JavaScript, HTML, Tailwind CSS, Flask, FastAPI, SQLite, Redis, C(basic), Rust(learning), Tauri(learning)  
+**Machine Learning:** TensorFlow, scikit-learn, PyTorch, OpenCV, Hugging Face
 **Creative Tools & IDEs:** Unreal Engine, Blender, VS Code, Sublime Text, Houdini, Nuke
 
 
