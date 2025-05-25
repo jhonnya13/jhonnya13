@@ -18,6 +18,33 @@ Creative technologist with 12+ years of experience in the software-driven visual
 I’ve built on-prem and cloud-based pipelines, deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend. I also co-founded a French tech startup focused on AI tools for media workflows.
 
 ---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>DevOps & Cloud</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,gcp,kubernetes,docker&perline=5" />
+    </td>
+    <td align="center">
+      <strong>Web & App Development</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=py,js,html,tailwind,flask,fastapi,sqlite,redis,rust,tauri&perline=5" />
+    </td>
+    <td align="center">
+      <strong>Machine Learning</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv&perline=4" />
+    </td>
+    <td align="center">
+      <strong>Creative Tools & IDEs</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=unreal,blender,vscode,sublime&perline=4" /><br>
+    </td>
+  </tr>
+</table>
+
+
+
+---
  I just can't learn one thing at a time.
 
 ## 🔭 Currently Working On:
@@ -40,6 +67,7 @@ I’ve built on-prem and cloud-based pipelines, deployed machine learning models
 - ML infrastructure, platform engineering, DevOps
 - AI ethics and safety
 
----
+
+--
 - [LinkedIn](https://www.linkedin.com/in/kseniia-ivanova-vfx/)
 - [YouTube](https://www.youtube.com/@the.kseniia)
