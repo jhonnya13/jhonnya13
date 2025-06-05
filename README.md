@@ -63,6 +63,10 @@ I’ve built on-prem and cloud-based pipelines (for work and fun), deployed mach
 <br>
 **Creative Tools & IDEs:** Unreal Engine, Blender, VS Code, Sublime Text, Houdini, Nuke
 
+<p>
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NYGgCfM1qxoIO1PsrtLfykJ1EXjfFkyR19yeJjMtCBemps--KSy54-f26OdDTKqkt8ZkZKeWc9TiPJtVgUK64GSSpPPKDh72dp64u0tJaB2InHkfWyIR-lgXTUl4mXoNw=s0-d-e1-ft#https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" height="100" alt="Introduction to Kubernetes">
+</p>
+
 
 ---
 
