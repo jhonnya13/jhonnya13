@@ -22,6 +22,7 @@ I’ve built on-prem and cloud-based pipelines (for work and fun), deployed mach
 ## 🤍 Care about:
 - Cloud and platform engineering, DevOps
 - AI ethics and safety
+- Building tools for real-world problems
 
 
 
