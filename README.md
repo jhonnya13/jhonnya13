@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 👋 Hello!
 <br>
-Co-founder at a French tech startup building AI-powered tools for media workflows. Experienced in designing on-prem and cloud-based pipelines, deploying machine learning models with Docker and Kubernetes, and developing full-stack applications across frontend and backend.
+Co-founder at a French tech startup building AI-powered tools for media workflows. Experienced in designing on-prem and cloud-based pipelines, deploying machine learning models with Kubernetes on Google Cloud, and developing full-stack applications across frontend and backend.
 <br>
 Previously spent 12 years in the visual effects industry, including 6+ years in leadership roles.
 
