@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello there!
+👋 Hello!
 <br>
-I am co-founded at French tech startup focused on AI tools for media workflows.
-I’ve built on-prem and cloud-based pipelines (for work and fun), deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend.
+Co-founder at a French tech startup building AI-powered tools for media workflows. Experienced in designing on-prem and cloud-based pipelines, deploying machine learning models with Docker and Kubernetes, and developing full-stack applications across frontend and backend.
 <br>
-Before shifting to IT I've spent 12 years in visual effects industry, including 6+ years in leadership.
+Previously spent 12 years in the visual effects industry, including 6+ years in leadership roles.
 
 ---
 
@@ -82,7 +81,7 @@ Before shifting to IT I've spent 12 years in visual effects industry, including 
   Can't just learn one thing at a time...
 
 ## 🔭 Currently Working On:
-- CKA certificate
+- CKAD certificate
 - Advancing my knowledge of **cybersecurity** via TryHackMe and practical labs (kinda really must have these days...)
 
 <p align="center">
