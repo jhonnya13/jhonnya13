@@ -20,8 +20,7 @@ I’ve built on-prem and cloud-based pipelines (for work and fun), deployed mach
 ---
 
 ## 🤍 Care about:
-- Building intelligent tools for real-world problems
-- ML infrastructure, platform engineering, DevOps
+- Cloud and platform engineering, DevOps
 - AI ethics and safety
 
 
@@ -79,8 +78,7 @@ I’ve built on-prem and cloud-based pipelines (for work and fun), deployed mach
   Can't just learn one thing at a time...
 
 ## 🔭 Currently Working On:
-- A **Rust + Tauri desktop app** for creative professionals (got curios how to build cross platform and avoid packaging all for different OS)
-- **Machine Learning projects** using PyTorch and TensorFlow (like to test new algorithms and papers)
+- CKA certificate
 - Advancing my knowledge of **cybersecurity** via TryHackMe and practical labs (kinda really must have these days...)
 
 <p align="center">
