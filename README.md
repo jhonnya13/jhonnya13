@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Creative technologist with 12+ years of experience in the software-driven visual effects industry, including 6+ years in leadership. I've led cross-functional teams of artists and developers under intense production pressure - delivering both creatively polished and technically robust solutions.
-
-I’ve built on-prem and cloud-based pipelines (for work and fun), deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend. I also co-founded a French tech startup focused on AI tools for media workflows.
+Hello there!
+<br>
+I am co-founded at French tech startup focused on AI tools for media workflows.
+I’ve built on-prem and cloud-based pipelines (for work and fun), deployed machine learning models with Docker and Kubernetes, and developed full-stack applications across the frontend and backend.
+<br>
+Before shifting to IT I've spent 12 years in visual effects industry, including 6+ years in leadership.
 
 ---
 
